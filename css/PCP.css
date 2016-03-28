@@ -1,0 +1,56 @@
+.title {
+  color: purple;
+  width: 100%;
+}
+
+.text-box{
+    background-color: lightgrey
+}
+
+.border {
+    border: 2px solid purple
+}
+
+.cover-photo{
+  height: 400px;
+  width: 87%;
+}
+
+.WJTquote {
+    width: 118%;
+}
+
+.timeline {
+    width: 87%
+}
+
+body{
+  background-color: lightyellow;
+  text-align: left;
+}
+
+ul{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 5px;
+}
+
+ul:last-child {
+    margin-bottom: 5px;
+}
+
+ol{
+    
+}
+
+.panel {
+    background-color: 
+}
+
+img {
+    margin-bottom: 20px; 
+}
+
+a{
+    color: purple;
+}
